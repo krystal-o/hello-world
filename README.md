@@ -7,5 +7,5 @@
                                                  
 
 # Welcome to ENTR-451
-<3 <3 <3
+<3 <3 <3 :] 
 This is an example of a GitHub repository.
